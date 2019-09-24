@@ -1,4 +1,4 @@
-## <center>Research Area: Vehicle Engineering, Sound Localization </font></center>
+## <center>Research Area: Vehicle Engineering, Sound Localization 
 ### <font color=orange>Personal Information</font>
 - Name: Dayi Tan
 - TEL: (+86) 152-2312-5174
